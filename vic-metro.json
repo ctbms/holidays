@@ -1,0 +1,20 @@
+    { 
+      "result": {
+        "records": [
+          {"Date":"20260101","Holiday Name":"New Year's Day","Information":"New Year's Day is the first day of the calendar year and is celebrated each January 1st","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20260126","Holiday Name":"Australia Day","Information":"Always celebrated on 26 January","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20260309","Holiday Name":"Labour Day","Information":"","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20260403","Holiday Name":"Good Friday","Information":"Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20260404","Holiday Name":"Easter Saturday","Information":"Easter Saturday is between Good Friday and Easter Sunday in Australia.","More Information":"","Jurisdiction":"vic"}
+          {"Date":"20260405","Holiday Name":"Easter Sunday","Information":"Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20260406","Holiday Name":"Easter Monday","Information":"Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20260425","Holiday Name":"Anzac Day","Information":"","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20260608","Holiday Name":"Kings Birthday","Information":"","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20260926","Holiday Name":"AFL Grand Final","Information":"","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20261103","Holiday Name":"Melbourne Cup","Information":"","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20261225","Holiday Name":"Christmas Day","Information":"","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20261226","Holiday Name":"Boxing Day","Information":"","More Information":"","Jurisdiction":"vic"},
+          {"Date":"20261228","Holiday Name":"Boxing Day Monday","Information":"","More Information":"","Jurisdiction":"vic"}          
+        ],
+      }
+    }
